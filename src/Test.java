@@ -11,6 +11,7 @@ public class Test {
         //PerfectNumber.find();
         //TersUcgen.draw();
         //Asal.find();
+        //Fibonacci.print(10);
         
     }
 }
