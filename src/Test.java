@@ -10,6 +10,7 @@ public class Test {
         //EbobEkok.findEkok();
         //PerfectNumber.find();
         //TersUcgen.draw();
+        //Asal.find();
         
     }
 }
