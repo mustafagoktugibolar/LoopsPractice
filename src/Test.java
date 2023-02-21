@@ -4,6 +4,7 @@ public class Test {
         //Combination.find();
         //MaxMin.find();
         //UsluSayi.find();
+        //BasamakToplami.find();
         
     }
 }
