@@ -8,6 +8,7 @@ public class Test {
         //Triangel.find();
         //EbobEkok.findEbob();
         //EbobEkok.findEkok();
+        //PerfectNumber.find();
         
     }
 }
