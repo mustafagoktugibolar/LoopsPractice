@@ -9,6 +9,7 @@ public class Test {
         //EbobEkok.findEbob();
         //EbobEkok.findEkok();
         //PerfectNumber.find();
+        //TersUcgen.draw();
         
     }
 }
