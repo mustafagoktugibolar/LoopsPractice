@@ -26,6 +26,7 @@ public class MaxMin {
                 min = input;
             }
         }
+        sc.close();
         System.out.println("The Biggest number :" + max);
         System.out.println("The smallest number :" + min);
 

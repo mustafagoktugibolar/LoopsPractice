@@ -5,6 +5,7 @@ public class Test {
         //MaxMin.find();
         //UsluSayi.find();
         //BasamakToplami.find();
+        HarmonikToplam.find();
         
     }
 }

@@ -16,6 +16,7 @@ public class Combination {
         int n = sc.nextInt();
         System.out.print("Enter r : ");
         int r = sc.nextInt();
+        sc.close();
 
         int result = factoriel(n) / (factoriel(n-r) * factoriel(r));
 

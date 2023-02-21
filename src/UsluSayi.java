@@ -9,6 +9,7 @@ public class UsluSayi {
 
         System.out.print("Power : ");
         int power = sc.nextInt();
+        sc.close();
 
         int result = 1;
 
