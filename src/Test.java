@@ -5,7 +5,7 @@ public class Test {
         //UsluSayi.find();
         //BasamakToplami.find();
         //HarmonikToplam.find();
-        Triangel.find();
+        //Triangel.find();
         
     }
 }
