@@ -6,6 +6,8 @@ public class Test {
         //BasamakToplami.find();
         //HarmonikToplam.find();
         //Triangel.find();
+        //EbobEkok.findEbob();
+        //EbobEkok.findEkok();
         
     }
 }
